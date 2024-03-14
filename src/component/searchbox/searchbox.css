@@ -1,0 +1,15 @@
+.heading h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 3px;
+}
+input{
+    padding: 10px 20px;
+    width: 500px;
+    height: 30px;
+    border: 2px solid black;
+    font-size: 18px;
+    border-radius: 10px;
+    color: rgb(89, 2, 140);
+}
