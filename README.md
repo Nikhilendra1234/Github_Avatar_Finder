@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 <h5>2. go to project folder - cd project name</h5>
 <h5>3. install all the dependencies - npm install</h5>
 <h5>4. install axios- npm install axios</h5>
-<h5>5. then run the project - npm run dev/h5>
+<h5>5. then run the project - npm run dev</h5>
 <h5>2. go to project folder - cd project name</h5>
 
 <h2>components</h2>
